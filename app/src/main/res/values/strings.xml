@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StyleGuideForms</string>
+    <string-array name="web_tech">
+        <item>HTML5</item>
+        <item>WAI-ARIA</item>
+        <item>SVG</item>
+        <item>CSS4</item>
+        <item>JavaScript</item>
+        <item>XML</item>
+    </string-array>
+</resources>
